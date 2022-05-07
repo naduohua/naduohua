@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **naduohua/naduohua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=naduohua&hide_border=true&date_format=%5BY.%5Dn.j" />
+  
+    
+  <img  src="https://github-profile-trophy.vercel.app/?username=naduohua&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
+
+</div>
